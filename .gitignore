@@ -16,5 +16,4 @@
 /stress-test-results.pdf
 /log/*.log
 /tmp
-config/database.yml
 .ruby-version
